@@ -1,2 +1,2 @@
-# Splay_Trees_TeoriaDeGrafos
-Proyecto Final Teoria de Grafos Juan Esteban Ladino, Gabriela Cortes
+# Splay_Trees_Implementation
+Final Proyect, Algoritmos y Estructuras de Datos
